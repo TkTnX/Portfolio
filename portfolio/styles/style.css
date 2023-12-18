@@ -229,8 +229,8 @@ body {
 .os-img {
   max-width: 900px;
   max-height: 725px;
-  padding-bottom: 70px;
-  margin-bottom: 250px;
+  padding-bottom: 0;
+  margin-bottom: 0;
 }
 
 .os-description {
@@ -262,4 +262,10 @@ body {
   border-radius: 50px;
 
   padding: 20px 30px;
+}
+
+.delivery__img {
+  max-width: 800px;
+  margin-left: auto;
+  margin-right: auto;
 }
